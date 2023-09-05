@@ -1,1 +1,2 @@
 Teksts
+otra teksta rinda
